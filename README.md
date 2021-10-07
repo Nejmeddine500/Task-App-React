@@ -4,7 +4,7 @@
 This project consisted of building a Task App using react.
 
 ## Screenshots
-![Screenshot](screenshot.png)
+Not found
 
 
 
